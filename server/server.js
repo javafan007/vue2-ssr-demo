@@ -1,6 +1,3 @@
-
-
-const Vue = require('vue');
 const fs = require('fs');
 const { createBundleRenderer } = require('vue-server-renderer');
 const Koa = require('koa');
